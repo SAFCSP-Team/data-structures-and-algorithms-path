@@ -21,7 +21,7 @@ By the end of this path you will be able to:
 
 | Project Number | Project Name | Deadline |
 | --- | ----------- |-------------|
-DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) |	30 Nov
+DSAProject01 | [Introduction to Data Structures](https://github.com/SAFCSP-Team/introduction-to-data-structures) |	2 Dec
 DSAProject02 | [Introduction to Algorithms](https://github.com/SAFCSP-Team/introduction-to-algorithms) |	3 Dec
 
 ### Submitting Process
